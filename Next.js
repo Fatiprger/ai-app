@@ -7,3 +7,4 @@ ai-app/
 ├── package.json
 ├── tailwind.config.js
 └── .env.local.example
+
